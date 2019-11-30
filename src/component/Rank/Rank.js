@@ -3,7 +3,7 @@ import React from 'react';
 const Rank = ({ name, entries }) => {
     return (
         <div>
-            <p className='f3'>
+            <p className='f3 b'>
                 This app will detect faces in your picture. Give it a try
             </p>
             <div className='white f3'>
